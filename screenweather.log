@@ -1,0 +1,20 @@
+INFO:root:2015-04-20 15:31:35.271790 initial update
+INFO:root:2015-04-20 15:32:08.179279 displayed forecast for day 1
+INFO:root:2015-04-20 15:32:12.775452 displayed forecast for day 2
+INFO:root:2015-04-20 15:32:16.354859 displayed forecast for day 3
+INFO:root:2015-04-20 15:32:18.156000 displayed forecast for day 4
+INFO:root:2015-04-20 15:32:19.451038 displayed forecast for day 5
+INFO:root:2015-04-20 15:32:21.507342 displayed forecast for day 6
+INFO:root:2015-04-20 15:32:23.672416 displayed forecast for day 6
+INFO:root:2015-04-20 15:32:24.458385 displayed forecast for day 5
+INFO:root:2015-04-20 15:32:25.244248 displayed forecast for day 4
+INFO:root:2015-04-20 15:32:30.210478 displayed current weather
+INFO:root:2015-04-20 15:33:30.086689 displayed forecast for day 1
+INFO:root:2015-04-20 15:33:31.634348 displayed forecast for day 2
+INFO:root:2015-04-20 15:33:36.595492 displayed current weather
+INFO:root:2015-04-20 15:41:34.809333 data updated
+INFO:root:2015-04-20 15:41:45.733819 updated current weather after data update
+INFO:root:2015-04-20 15:51:34.823733 data updated
+INFO:root:2015-04-20 15:51:35.352393 updated current weather after data update
+INFO:root:2015-04-20 16:01:34.859280 data updated
+INFO:root:2015-04-20 16:01:35.809558 updated current weather after data update
